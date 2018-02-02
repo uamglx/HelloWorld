@@ -1,2 +1,2 @@
 # HelloWorld
-My secend Repository in GetGub
+My secend Repository in GetHub
